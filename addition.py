@@ -1,0 +1,5 @@
+print("Give me 2 numbers and i'll add them together.")
+number1 = input("What's the first number? ") 
+number2 = input("What's the second number? ") 
+total = int(number1) + int(number2)
+print("The total is ", total , "!")
