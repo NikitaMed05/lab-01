@@ -1,0 +1,5 @@
+print("I will ask you for your name, age and student number and print it out back to you :).")
+name = input("What is your name? ") 
+age = input("What is your age? ") 
+studentNumber = input("What is your student number?")
+print("Hello " + name + ", you are " + age + " years old " +"and your student number is " + studentNumber + " :).")
