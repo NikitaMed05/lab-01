@@ -2,4 +2,4 @@ print("I will ask you for your name, age and student number and print it out bac
 name = input("What is your name? ") 
 age = input("What is your age? ") 
 studentNumber = input("What is your student number?")
-print("Hello " + name + ", you are " + age + " years old " +"and your student number is " + studentNumber + " :).")
+print("Hello " + name + ", \nyou are " + age + " years old, " +"\nand your student number is " + studentNumber + " :).")
